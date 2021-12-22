@@ -6,6 +6,7 @@
 }
 body {
   font-family: "Oooh Baby", cursive;
+  background: #f2f2f2;
 }
 
 .main {
@@ -58,11 +59,11 @@ body {
 
 code {
   font-size: 0.6rem;
-  padding: 6px 4px;
+  padding: 4px 6px;
   color: #fff;
   background: rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-  margin-right: 4px;
+  margin: 0 4px;
 }
 
 @media screen and (min-width: 1024px) {
@@ -80,7 +81,7 @@ code {
     font-size: 1.4rem;
   }
   code {
-    padding: 8px;
+    padding: 6px 8px;
     font-size: 1rem;
   }
 }
